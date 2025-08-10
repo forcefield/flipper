@@ -57,6 +57,8 @@ solution = solve(init_state)
 demo_solution(init_state, solution)
 ```
 
+Now you can dominate this game in [the Moriarty Console at Murdle](https://murdle.com/console/).
+
 ### Available Functions
 
 #### Core Functions
